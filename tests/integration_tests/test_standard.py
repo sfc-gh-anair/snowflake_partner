@@ -1,6 +1,7 @@
 """Standard LangChain interface tests"""
 # requires either passing login information as environment variable,
 # or passing into the chat_model_params
+# ran all tests using the "pytest" command, instead of poetry
 
 from typing import Type
 
